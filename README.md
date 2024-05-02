@@ -23,6 +23,8 @@
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brnreis&hide_progress=true&theme=dark)](https://github.com/brnreis/github-readme-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=brnreis&theme=dark&border_radius=5&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat&fire=EB5454&stroke=EB5454)](https://git.io/streak-stats)
+
 ##
 
 <!--START_SECTION:waka-->
@@ -96,3 +98,5 @@ Python                   1 repo              ███████████�
 
  Last Updated on 02/05/2024 16:22:34 UTC
 <!--END_SECTION:waka-->
+
+##

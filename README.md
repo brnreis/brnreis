@@ -20,3 +20,7 @@
 
 
 ##
+
+<p align="center">
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=brnreis&theme=transparent&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat&card_width=500&ring=EB5454&fire=EB5454&currStreakLabel=EB5454" alt="GitHub Streak" /></a>
+</p>

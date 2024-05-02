@@ -10,10 +10,8 @@
 
 ##
 
-<p float="left">
- <img src="metrics.base.svg" alt="Metrics" width="500">
- <img src="metrics.plugin.habits.charts.svg" alt="Metrics" width="500">
-</p>
+<p align="center"><img src="metrics.base.svg" alt="Metrics" width="500"></p>
+<p align="center"><img src="metrics.plugin.habits.charts.svg" alt="Metrics" width="500"></p>
 <p align="center"><img src="metrics.plugin.wakatime.svg" alt="Metrics" width="500"></p>
 
 ##

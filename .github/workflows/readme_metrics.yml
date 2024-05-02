@@ -62,4 +62,3 @@ jobs:
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_url: metrics.plugin.wakatime.svg
           plugin_wakatime_user: brnreis
-          repositories_forks: yes

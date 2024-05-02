@@ -22,3 +22,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brnreis&theme=dark&layout=donut)](https://github.com/brnreis/github-readme-stats)
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brnreis&hide_progress=true&theme=dark)](https://github.com/brnreis/github-readme-stats)
+
+##
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
